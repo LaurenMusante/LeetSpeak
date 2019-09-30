@@ -18,5 +18,11 @@ namespace LeetSpeak.Tests
       LeetSpeak testLeetSpeak = new LeetSpeak();
       Assert.AreEqual("sn0w", testLeetSpeak.LeetConverter("snow"));
     }
+            [TestMethod]
+    public void LeetConverter_ContainsI_True()
+    {
+      LeetSpeak testLeetSpeak = new LeetSpeak();
+      Assert.AreEqual("1ggy", testLeetSpeak.LeetConverter("Iggy"));
+    }
   }
 }
