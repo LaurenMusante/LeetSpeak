@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "LeetSpeak/1.0.0": {
+      "Leetspeak/1.0.0": {
         "runtime": {
-          "LeetSpeak.dll": {}
+          "Leetspeak.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "LeetSpeak/1.0.0": {
+    "Leetspeak/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
