@@ -17,7 +17,7 @@ namespace LeetSpeak
             for (int i = 0; i < userInputArray.Length; i++)
             {
                 char currentCharacter = userInputArray[i];
-                char[] specialLetters = leetDict.Keys.ToList();
+                char[] specialLetters = leetDict.Keys.ToList();  //specialLetters is an array of the Keys of the leetDict.
                 if(specialLetters.Contains(currentCharacter))
                 {
                     
