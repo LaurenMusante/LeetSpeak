@@ -6,9 +6,9 @@
 
 ## Description
 
-_This application will translate normal phrases into LeetSpeak phrases using the following replacements:
+_This application will translate normal phrases into LeetSpeak phrases using the following replacements:_
 
-The letter "e" should be replaced with "3".
+_The letter "e" should be replaced with "3".
 The letter "o" should be replaced with "0".
 The capital letter "I" (but not the lower case, "i") should be replaced with "1".
 All instances of "s" should be replaced with "z" UNLESS it is the first letter of the word._
